@@ -13,10 +13,20 @@ print("Hello world this is Pushan verma ")
 
 
 
-# 2.2 Enclosing within the three double Quotes / Single Quotes 
+# 2.2 DocString ->Enclosing within the three double Quotes / Single Quotes 
 
 """ hello this is pushan verma and I am from India 
 I am currently studying Computer science from Purdue University 
 I will be studying Python , Machine Learning and Deep Learning """
 
 ''' Hello this is Pushan Verma  '''
+
+
+# 3.Variables and Different type of Variable Casing 
+
+PushanVerma = "Hello this is Pushan Verma";     # PasCal Case 
+pushanVerma = "Hello this is Pushan Verma";     # Camel Case 
+pushan_verma ="Hello this is Pushan Verma";     # Snake Case 
+
+
+
