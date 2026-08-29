@@ -1,0 +1,7 @@
+1. Comments and variables in Python 
+
+Comments - 
+
+Comments are something that are ignored by the python interpreter 
+Like in Js you do // , here you have to do # . So whatever comes after # is ignored by the python interpreter . 
+
