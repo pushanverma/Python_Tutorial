@@ -1,7 +1,39 @@
-1. Comments and variables in Python 
+Topics covered ->
 
-Comments - 
+Part 1 ->
 
-Comments are something that are ignored by the python interpreter 
-Like in Js you do // , here you have to do # . So whatever comes after # is ignored by the python interpreter . 
+1. Comments and Variables 
+2. Data Types in Python 
+3. Strings and Type Conversion 
+4. Input and Output in Python 
+5. Operators in Python(all Types)
+6. if-else and Conditional Statements 
 
+
+Part 2 ->
+
+7. Loops in Python 
+8. for-loop , while loop , do-While Loop and other important loops 
+9. Functions in Python 
+
+Part 3 ->
+
+10. Data Structures Overview 
+11. Lists in Python 
+12. Tuples in Python 
+13. Sets in Python 
+14. Dictonaries in Python 
+
+
+Part 4 ->
+
+15. Exception Handling 
+16. File Handling Basics 
+17. File Handling Project
+
+
+Part 5 ->
+
+18. OOPs in Python 
+19. Advanced Python Concepts 
+20. Bank Management Systems(Mini Project)
