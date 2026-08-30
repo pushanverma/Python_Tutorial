@@ -1,4 +1,4 @@
-#--------------------------- 2.Comments ----------------------------------------
+#--------------------------- 2.Comments and Variables ----------------------------------------
 
 # 2.1 Using ( Shift + / )
 # Hello this is Pushan verma 
@@ -15,7 +15,7 @@ I will be studying Python , Machine Learning and Deep Learning """
 
 ''' Hello this is Pushan Verma  '''
 
-# -------------3.Variables and Different type of Variable Casing--------------------
+# -------------Variables and Different type of Variable Casing--------------------
 
 PushanVerma = "Hello this is Pushan Verma";     # PasCal Case 
 pushanVerma = "Hello this is Pushan Verma";     # Camel Case 
