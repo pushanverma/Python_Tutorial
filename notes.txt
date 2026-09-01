@@ -1,5 +1,7 @@
 Topics covered ->
 
+Resource followed -https://www.youtube.com/watch?v=_aWbUudZ5Yo&t=5195s 
+
 Part 1 ->
 
 1. Comments and Variables 

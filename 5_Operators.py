@@ -264,7 +264,7 @@ print((456== 456) != (235==236),"....True");
 # Since 456==456 , it will give True , and 235 is not equal to 236 so give false , and they are not equal so answer will be True 
 
 print(12< 10 or 45==56 or 69>70 or 15!=13,".....True");
-# 12 is less than 10 , so true 
+# 12 is less than 10 , so false
 # 45 is not equal to 56 , so false
 # 69 is not greater than 70 , so false
 # and 15 is not equal to 13 , so true 
