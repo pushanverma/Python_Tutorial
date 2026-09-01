@@ -212,11 +212,14 @@ print("apple" > " apple","...True");
 
 
 # 6 Comparing String with Numbers 
-# In other languages it does not allow to compare with different dataTypes but in Python you can do it .
 
 print("abc"> "1","....True");
 # This is because as usual we compare the characters of the strings and "a" vs "1" , So 
 # Ascii value of a(97) > Ascii value of 1(32) . So , 1st String is greater than 2nd String.
+
+# print("a" > 32,"....Error");
+# You cannot compare a String with Number here . You can only compare as shown above .
+
 
 
 # -------------------------------Logical Operators---------------------------------
